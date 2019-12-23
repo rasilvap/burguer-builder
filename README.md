@@ -15,10 +15,14 @@ The idea of this is to build a HamburguerBuild proyect in which the user could a
 In the intial state the Hamburguer will appears without any ingredient, the user will have buttons to add and remove ingredients and to   order the finall Hambuerguer. The Hambuerguer Image is updated in real time.
 
 
-
+## Initial State of the Hamburguer
 
 <img src = "src/images/hamburguerEmpty.JPG" />
 
+## Hamburguer with ingredients
+
 <img src = "src/images/hamburguerWithIngredients.JPG" />
+
+## Hamburguer with ingredients removed.
 
 <img src = "src/images/hamburguerLessIngredients.JPG" />
