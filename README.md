@@ -1,10 +1,12 @@
+# The Burguer Builder
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-#To Install
+## To Install
 
 Npm install
 
-#To Start
+## To Start
 
 Npm start
 
