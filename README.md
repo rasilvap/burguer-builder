@@ -17,3 +17,8 @@ In the intial state the Hamburguer will appears without any ingredient, the user
 
 
 
+<img src = "src/images/hamburguerEmpty.JPG" />
+
+<img src = "src/images/hamburguerWithIngredients.JPG" />
+
+<img src = "src/images/hamburguerLessIngredients.JPG" />
